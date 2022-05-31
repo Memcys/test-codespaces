@@ -1,0 +1,10 @@
+# directories
+.venv
+__pycache__
+.vscode
+.ipynb*
+*.egg-info
+build
+
+# files
+pyvenv.cfg
