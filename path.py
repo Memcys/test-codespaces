@@ -22,6 +22,6 @@ from package.tree import DisplayablePath
 
 # ### Print directory `package/`
 
-DisplayablePath.print_tree('package/')
+DisplayablePath.print_tree()
 
 
